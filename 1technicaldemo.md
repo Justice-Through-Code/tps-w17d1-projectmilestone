@@ -14,7 +14,7 @@ The Purpose of a Milestone Demo:
 Core Principles of Effective Demos:
 "Let's explore what makes a technical demonstration compelling:"
 
-1. Start with Why "Before showing any features, establish the problem you're solving. For our weather app:
+1. Start with Why: "Before showing any features, establish the problem you're solving. For our weather app:
 Why do people need weather information?
 What problems do existing solutions have?
 How does your application address these issues?"
@@ -65,7 +65,7 @@ Example Milestone Demo Script:
 
 'Over the past 16 weeks, I've been building a weather application that helps users make better daily decisions. Today, I'll show you three key milestones I've achieved:
 First, the real-time weather data integration. demonstrates As you can see, the app fetches current conditions for any location...
-Second, the historical analysis feature. demonstrates This was particularly challenging because...
+Second, the historical analysis feature. This was particularly challenging because...
 Third, the predictive model. demonstrates Using machine learning, the app can now...'"
 
 Demo Anti-Patterns to Avoid:

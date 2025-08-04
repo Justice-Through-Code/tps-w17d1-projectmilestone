@@ -1,7 +1,8 @@
 # tps-w17d1-projectmilestone
 
 
-Focus Concepts
+Focus Concepts:
+
     Effective technical demonstration techniques
     Milestone-based project presentations
     Handling demo failures gracefully
@@ -11,6 +12,7 @@ Focus Concepts
 
 
 Learning Objectives:
+
     Structure a technical demonstration that tells a compelling story
     Present project milestones in a logical, engaging sequence
     Handle unexpected technical issues during live demonstrations
@@ -18,7 +20,8 @@ Learning Objectives:
     Use visual aids and live coding effectively in presentations
 
 
-Key Terms
+Key Terms:
+
     Demo Flow: The narrative structure that guides viewers through your demonstration
     Milestone Demonstration: Showing key project achievements in chronological or logical order
     Graceful Degradation: Having backup plans when live features fail
